@@ -1,0 +1,17 @@
+package Basics.Practice;
+
+public class Eg4 {
+
+	public static void main(String[] args) {
+		
+		System.out.println(Byte.BYTES);
+		System.out.println(Byte.SIZE);
+		System.out.println(Byte.TYPE);
+		System.out.println(Byte.class);
+		System.out.println(Byte.MAX_VALUE);
+		System.out.println(Byte.MIN_VALUE);
+		
+
+	}
+
+}

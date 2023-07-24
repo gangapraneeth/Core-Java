@@ -1,0 +1,30 @@
+package Basics.Practice;
+
+public class Eg2 {
+
+    // Wrapper data types
+    static Byte b;
+    static Short s;
+    static Int i;
+    static Long l;
+
+    static Float f;
+    static Double d;
+
+    static Char ch;
+
+    static Boolean bb;
+
+    public static void main(String[] args) {
+
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(ch);
+        System.out.println(bb);
+    }
+
+}
